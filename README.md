@@ -49,7 +49,7 @@ methods still need to be analysed in the future. And experimental
 results in this paper can only provide a reference to researchers. In
 practical application scenarios, researchers need to choose appropriate methods according to their data characteristics.
 
-- cite
+## Bib cite
 
 @article{10.1093/mnras/stac3292,
     author = {Yang, Haifeng and Zhou, Lichan and Cai, Jianghui and Shi, Chenhui and Yang, Yuqing and Zhao, Xujun and Duan, Juncheng and Yin, Xiaona},
