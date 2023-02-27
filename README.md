@@ -1,5 +1,5 @@
-# Data-mining-techniques-on-astronomical-spectra-data.-II-Classification-Analysis
-Classification alagorithms and features extraction methods on astronomiacal spectra.
+# Data mining techniques on astronomical spectra data.II Classification Analysis
+This is the experiment code of the paper - [https://doi.org/10.1093/mnras/stac3292](https://doi.org/10.1093/mnras/stac3292).
 
 In this paper, we investigate the classification methods used for astronomical spectra data. We introduce the main ideas, advantages, caveats, and applications of classification methods. And data sets are
 designed by data characteristics, data qualities, and data volumes.
@@ -48,3 +48,19 @@ of nine basic algorithms on astronomical spectra. Other effective
 methods still need to be analysed in the future. And experimental
 results in this paper can only provide a reference to researchers. In
 practical application scenarios, researchers need to choose appropriate methods according to their data characteristics.
+
+- cite
+@article{10.1093/mnras/stac3292,
+    author = {Yang, Haifeng and Zhou, Lichan and Cai, Jianghui and Shi, Chenhui and Yang, Yuqing and Zhao, Xujun and Duan, Juncheng and Yin, Xiaona},
+    title = "{Data mining techniques on astronomical spectra data – II. Classification analysis}",
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {518},
+    number = {4},
+    pages = {5904-5928},
+    year = {2022},
+    month = {11},
+    issn = {0035-8711},
+    doi = {10.1093/mnras/stac3292},
+    url = {https://doi.org/10.1093/mnras/stac3292},
+    eprint = {https://academic.oup.com/mnras/article-pdf/518/4/5904/47852595/stac3292.pdf},
+}
